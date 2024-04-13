@@ -1,20 +1,7 @@
 # Python Scripts for Data Retrieval 
 
 ## Introduction
-This repository contains two Python scripts (`country_data.py` and `brewery_data.py`) that utilize Object-Oriented Programming (OOP) concepts to fetch and analyze data from external APIs. These scripts offer functionalities to retrieve information about countries, currencies, and breweries across different states.
-
-### APIs Used
-1. **Rest Countries API**: Provides comprehensive data about countries, including their currencies.
-2. **Open Brewery DB API**: Offers a database of breweries with detailed information, such as location and type.
-
-## Instructions for Running the Scripts
-To run the scripts locally, follow these instructions:
-
-1. **Clone the Repository**: Clone this repository to your local machine using Git.
-2. **Install Dependencies**: Navigate to the repository directory and install the required Python packages using the command `pip install -r requirements.txt`.
-3. **Execute the Scripts**: Run the Python scripts using Python 3.x. Use the following commands:
-   - For `country_data.py`: `python country_data.py`
-   - For `brewery_data.py`: `python brewery_data.py`
+This repository contains two Python scripts (`qn_1.py: country_data.py` and `qn_2.py: brewery_data.py`) that utilize Object-Oriented Programming (OOP) concepts to fetch data from external APIs. These scripts offer functionalities to retrieve information about countries, currencies, and breweries across different states.
 
 ## Description of Each Script
 
@@ -41,5 +28,4 @@ Python 3.x
     ```
    Replace <script_name> with the name of the Python script you want to run.
 
-```
 
